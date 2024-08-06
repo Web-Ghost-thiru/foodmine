@@ -40,6 +40,5 @@
                 </nav>
             </div>
         </header>
-
      )
     }

@@ -65,49 +65,5 @@ export const sample_foods =
         stars: 4.8,
         imageUrl: 'food-6.jpg',
         tags: ['Fastfood', 'Pizza', 'Cheese']
-    },
-    {
-        id: '7',
-        name: 'Pizza Mediterranean',
-        cookTime: '15-25',
-        price: 14,
-        favorite: false,
-        origins: ['greece'],
-        stars: 4.5,
-        imageUrl: 'food-7.jpg',
-        tags: ['Fastfood', 'Pizza', 'Vegetarian']
-    },
-    {
-        id: '8',
-        name: 'Pizza Pepperoni Deluxe',
-        cookTime: '10-20',
-        price: 11,
-        favorite: true,
-        origins: ['italy'],
-        stars: 4.6,
-        imageUrl: 'food-8.jpg',
-        tags: ['Fastfood', 'Pizza', 'Lunch']
-    },
-    {
-        id: '9',
-        name: 'Pizza Pesto Chicken',
-        cookTime: '15-25',
-        price: 15,
-        favorite: false,
-        origins: ['italy'],
-        stars: 4.3,
-        imageUrl: 'food-9.jpg',
-        tags: ['Fastfood', 'Pizza', 'Dinner']
-    },
-    {
-        id: '10',
-        name: 'Pizza Spicy Sausage',
-        cookTime: '10-20',
-        price: 12,
-        favorite: true,
-        origins: ['italy'],
-        stars: 4.7,
-        imageUrl: 'food-10.jpg',
-        tags: ['Fastfood', 'Pizza', 'Lunch']
     }
 ];
